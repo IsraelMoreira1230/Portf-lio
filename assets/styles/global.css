@@ -27,26 +27,29 @@ body {
 }
 
 .profile-img {
-    width: 150px;
-  width: 150px;
+    width: 140px;
+  width: 140px;
 }
-.header-title{
+.header-title {
     display: flex;
+}
 .header-title {
   display: flex;
 }
-.personal-info{
+.personal-info  {
     width: 100%;
     text-align: end;
+}
 .personal-info {
   width: 100%;
   text-align: end;
 }
-.header-menu{
+.header-menu  {
     display: flex;
     gap: 50px;
     margin-top: 20px;
     justify-content: center;
+}
 .header-menu {
   display: flex;
   gap: 50px;
@@ -67,6 +70,7 @@ body {
 
 .header-menu > a:hover{
     color: #2a6e91;
+}
 .header-menu > a:hover {
   color: #2a6e91;
 }
@@ -88,4 +92,3 @@ body {
   .container {
     width: 50%;
   }
-}
