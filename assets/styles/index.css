@@ -3,7 +3,7 @@
   height: 30px;
 }
 .about-me{
-  background-color: #bfbfbf;
+  background-color: #bac5ce;
   padding: 20px;
   border-radius: 5px;
   display: grid;
@@ -17,11 +17,11 @@
   flex-wrap: wrap;
 }
 .skills-container > div {
-  background-color: white;
-  border: 1px solid #b3b3b3;
+  background-color: rgb(112, 153, 192);
+  border: 1px solid #3b6586;
   border-radius: 5px;
   padding: 20px;
-  box-shadow: 7px 10px #b3b3b3;
+  box-shadow: 7px 10px #4f6c97;
   max-width: 150px;
   min-width: 150px;
 }
